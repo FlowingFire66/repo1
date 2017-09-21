@@ -3,3 +3,6 @@ hello,cskaoyan!
 hello,wangdao!
 
 add log2 at line5! 
+
+add log at line5!
+hello,123!
